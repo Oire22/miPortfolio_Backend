@@ -1,5 +1,4 @@
 com\argentinaPrograma\miPortfolio\controller\EducacionController.class
-com\argentinaPrograma\miPortfolio\config\WebConfig.class
 com\argentinaPrograma\miPortfolio\repository\EducacionRepository.class
 com\argentinaPrograma\miPortfolio\service\EducacionService.class
 com\argentinaPrograma\miPortfolio\model\Educacion.class
@@ -18,5 +17,6 @@ com\argentinaPrograma\miPortfolio\repository\ProyectosRepository.class
 com\argentinaPrograma\miPortfolio\repository\ExperienciaRepository.class
 com\argentinaPrograma\miPortfolio\service\ExperienciaService.class
 com\argentinaPrograma\miPortfolio\controller\PersonaController.class
+com\argentinaPrograma\miPortfolio\WebConfig.class
 com\argentinaPrograma\miPortfolio\service\IExperienciaService.class
 com\argentinaPrograma\miPortfolio\MiPortfolioApplication.class
